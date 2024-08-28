@@ -18,7 +18,7 @@ This issue only occurs when a Release Condition is specified (as shown in the sc
    npm install
    ```
 
-2. Add your PostHog key and UserID in the `env.ts` file.
+2. Add your `PostHog key` and `UserID` in the `env.ts` file.
 
 3. Start the application with:
 
